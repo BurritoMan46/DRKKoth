@@ -89,7 +89,7 @@ class KothCommand extends Command{
     }
 
     public function sendHelp(CommandSender $sender){
-        $sender->sendMessage("---KOTH Commands---");
+        $sender->sendMessage("§7---§6KOTH Commands§7---");
         $sender->sendMessage("Make sure to run first 3 commands to fully setup Arena");
         $sender->sendMessage("1) /koth setspawn - set as many spawn points as your want!");
         $sender->sendMessage("2) /koth p1 - set point 1 for capture area");
