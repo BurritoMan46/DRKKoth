@@ -1,7 +1,7 @@
 ---
 name: DRKKoth
 author: DarkkzMC
-description: A Koth plugin By DarkkzMC
+description: A Koth plugin By DarkkzMC, MangoTheDev
 version: 0.0.1
 main: DarkkzMC\Koth\KothMain
 api:
@@ -9,4 +9,6 @@ api:
 - 3.0.0-ALPHA5
 - 3.0.0-ALPHA8
 - 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
 ...
